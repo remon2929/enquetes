@@ -1,0 +1,12 @@
+{
+  "name": "http",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "pug": "2.0.4"
+  },
+  "engines": {
+    "node": "~10"
+  }
+}
